@@ -1,5 +1,5 @@
 \name{prev}
-\alias{next}
+\alias{prev}
 
 \title{prev}
 
@@ -78,7 +78,7 @@ example_data %>%
 
 
 \references{
-Hadley Wickham, Romain François, Lionel Henry and Kirill Müller (2021). dplyr: A Grammar of Data Manipulation. R package
+Hadley Wickham, Romain FranÃ§ois, Lionel Henry and Kirill MÃ¼ller (2021). dplyr: A Grammar of Data Manipulation. R package
   version 1.0.7. https://CRAN.R-project.org/package=dplyr
 }
 
