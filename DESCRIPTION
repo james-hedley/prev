@@ -1,0 +1,24 @@
+Package: prev
+Type: Package
+Title: Make changes to a variable row by row
+Version: 0.1.0
+Author: James Hedley
+Maintainer: James Hedley <james.a.hedley@gmail.com>
+Description: Make changes to a variable based on its previous or susbequent values, iteratively.
+
+
+
+
+By default, R treats a variable within a dataset as a vector. If you use something like dplyr::lag()
+the entire vector will be lagged at the same time.
+
+
+
+
+However, sometimes you may want to apply changes to a variable row by row. prev::prev() makes changes to a variable row by row, which produces similar results to other statistical software packages (e.g. Stata or SAS). 
+
+
+
+License: None
+Encoding: UTF-8
+LazyData: true
