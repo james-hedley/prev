@@ -9,8 +9,7 @@ Description: Make changes to a variable based on its previous or susbequent valu
 
 
 
-By default, R treats a variable within a dataset as a vector. If you use something like dplyr::lag()
-the entire vector will be lagged at the same time.
+By default, R treats a variable within a dataset as a vector. If you use something like dplyr::lag() the entire vector will be lagged at the same time.
 
 
 
